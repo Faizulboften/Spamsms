@@ -12,14 +12,13 @@ def balik():
 def baner():
     print ('''
 \t
-╔╗ ┬─┐┬ ┬┌┬┐┌─┐┬  ╔═╗┌─┐┌─┐┌┬┐┌┬┐┌─┐┬─┐
-╠╩╗├┬┘│ │ │ ├─┤│  ╚═╗├─┘├─┤││││││├┤ ├┬┘
-╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
-
-\t------------
-\nCreator: Faqih ID
-Youtube: Ilangqwer
-Github : github.com/IL4NGQW3R
+\033[32;1m╔═╗╔═╗╔═╗╔╦╗\033[31;1m╔╗╔╔═╗\033[34;1m╦  ╦╔╦╗╦╔╦╗
+\033[32;1m╚═╗╠═╝╠═╣║║║\033[31;1m║║║║ ║\033[34;1m║  ║║║║║ ║ 
+\033[32;1m╚═╝╩  ╩ ╩╩ ╩\033[31;1m╝╚╝╚═╝\033[34;1m╩═╝╩╩ ╩╩ ╩
+\t\033[34;1m-----------------------
+\nCreator:\033[34;1mFaizul Boftenn
+Youtube  :\033[34;1mHtc Ctr Gaming
+Github :\033[34;1mgithub.com/Faizulboften
 ==========================================''')
 def kata(s):
     for c in s + "\n":
@@ -249,29 +248,58 @@ if __name__=="__main__":
           clear()
           baner()
           hh="+62"
-          no=input("[+]Phone Number: ")
+          no=input("[+]•>NO TARGET: ")
           c=no[1:12]
           w=hh+c 
-          kata("Waiting....!!")
+          kata("\033[34;1mMENGGIRIM SPAMM SEDANG BERLANGSUNG")
+          kata("\033[34;1m════════════\033[32;1m══════════════════\033[35;1m═══════════════════\033[31;1m════════════════════════════════════")
           jenius()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           oyo()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL") 
           mapclub()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           call()
-          time.sleep(2)
+          time.sleep(4)
           soplai()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           depop()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           rupa()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           matahari()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           socil()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           indo()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           olx()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           call2()
-          time.sleep(2)
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
+          time.sleep(3)
           alodoc()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           klik()
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
           wa2()
-          time.sleep(2)
-          kata("[•]Done..")
+          kata("\033[31;1m----------------")
+          kata("\033[31;1mSUKSESFULL")
+          time.sleep(4)
+          kata("[•]SUKSESFULL..")
           balik()
      except KeyError:
              sys.exit()
